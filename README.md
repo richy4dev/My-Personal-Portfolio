@@ -1,19 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# My Personal Portfolio
 
-> Description the project.
+> This is my personal Portfolio
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML and CSS
+- Linters
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+N/A
 
 
 ## Getting Started
@@ -25,32 +24,21 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- Ensure to setup Linters correctly
 
 ### Setup
 
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- Linters
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Richard Obaseki**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/richy4dev)
+- Twitter: [@twitterhandle](https://twitter.com/RichardObasek)
 
 ## 🤝 Contributing
 
@@ -71,5 +59,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
