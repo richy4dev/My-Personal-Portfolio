@@ -5,6 +5,8 @@ body {
   font-family: "Poppins", sans-serif;
   margin: 0;
   padding: 0;
+  width: 327;
+  height: 146;
 }
 
 .text-color-primary {
@@ -17,8 +19,9 @@ header {
   border-bottom-left-radius: 150px;
 }
 
-i.fas.fa-bars {
+.fa_custom {
   color: #396df2;
+  margin-right: 20px;
 }
 
 .width-100 {
@@ -37,10 +40,10 @@ i.fas.fa-bars {
   text-decoration: none;
   color: #6070ff;
   font-size: 18px;
-  margin-left: 5px;
+  margin-left: 25px;
   line-height: 20px;
   font-weight: 700;
-  padding-left: 37px;
+  padding-left: 36px;
   padding-top: 12px;
 }
 
@@ -54,7 +57,7 @@ i.fas.fa-bars {
 }
 
 .headline-wrap {
-  background-image: url(image/back-desktop.svg);
+  background-image: url(Image/header-shapes-mobile.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #fff;
@@ -88,6 +91,7 @@ i.fas.fa-bars {
   justify-items: center;
   color: #344563;
   margin-left: 26px;
+  margin-right: 20px;
   padding-top: 4px;
 }
 
