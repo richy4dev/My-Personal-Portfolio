@@ -43,7 +43,7 @@ header {
   margin-left: 25px;
   line-height: 20px;
   font-weight: 700;
-  padding-left: 36px;
+  padding-left: 6px;
   padding-top: 12px;
 }
 
@@ -79,7 +79,6 @@ header {
   margin: 0;
   display: flex;
   align-items: center;
-  padding-left: 29px;
   padding-top: 100px;
 }
 
@@ -90,7 +89,6 @@ header {
   line-height: 24px;
   justify-items: center;
   color: #344563;
-  margin-left: 26px;
   margin-right: 20px;
   padding-top: 4px;
 }
@@ -106,15 +104,14 @@ header {
   font-weight: 500;
   line-height: 0px;
   padding-top: 12px;
-  margin-bottom: 30px;
-  padding-left: 25px;
+  margin-bottom: -10px;
 }
 
 .social-icons {
   display: flex;
   margin: 10px 0;
   padding-top: 0;
-  padding-left: 24px;
+  padding-left: 1px;
   gap: 20px;
 }
 
