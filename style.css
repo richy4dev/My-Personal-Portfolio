@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #E5E5E5;
+  background-color: #e5e5e5;
   font-family: "Poppins", sans-serif;
   margin: 0;
   padding: 0;
@@ -134,7 +134,7 @@ header {
 .works {
   padding-bottom: 30px;
   display: grid;
-  background-color: #E5E5E5;
+  background-color: #e5e5e5;
 }
 
 .works-grid-item {
@@ -151,7 +151,7 @@ header {
   flex-direction: column;
   margin-bottom: 50px;
   margin-left: 10px;
-  margin-right: 14px
+  margin-right: 14px;
 }
 
 h1.section-title {
@@ -258,12 +258,12 @@ h1.section-title {
   margin-top: 10px;
 }
 
-.about-section{
+.about-section {
   background-color: white;
   border-top-right-radius: 50px;
 }
 
-.container-aboutleft{
+.container-aboutleft {
   margin-left: 20px;
   margin-right: 10px;
 }
@@ -312,7 +312,7 @@ h2.section-title {
   justify-content: space-between;
   display: flex;
   align-items: center;
-  margin-right: 20px
+  margin-right: 20px;
 }
 
 .other-info-details {
@@ -331,7 +331,7 @@ h2.section-title {
   margin-bottom: 12px;
   display: flex;
   background-color: #f7f7f9;
-  margin-right: 10px
+  margin-right: 10px;
 }
 
 .view-list-item img.lang-icon {
