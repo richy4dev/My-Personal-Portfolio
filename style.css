@@ -152,6 +152,7 @@ header {
   margin-bottom: 50px;
   margin-left: 10px;
   margin-right: 14px;
+  align-items: center;
 }
 
 h1.section-title {
@@ -254,8 +255,8 @@ h1.section-title {
   background-position-x: right;
 }
 
-.about-myself {
-  margin-top: 10px;
+.flex-about-wrap {
+  align-items: center;
 }
 
 .about-section {
