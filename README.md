@@ -40,6 +40,12 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@githubhandle](https://github.com/richy4dev)
 - Twitter: [@twitterhandle](https://twitter.com/RichardObasek)
 
+👤 **Joel Kugonza**
+- GitHub: [@githubhandle](https://github.com/joel-100)
+
+👤 **Emmanuel Somarib**
+- GitHub: [@githubhandle](https://github.com/somarib)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
