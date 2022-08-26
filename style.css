@@ -269,10 +269,15 @@ h1.section-title {
 .flex-about-wrap {
   align-items: center;
   margin-bottom: 130px;
+  background-color: #e5e5e5;
 }
 
 .about-section {
   background-color: white;
+  border-top-right-radius: 100px;
+}
+
+.about-myself {
   border-top-right-radius: 50px;
 }
 
@@ -409,6 +414,7 @@ h2.section-title {
   font-weight: 400px;
   padding-right: 12px;
   padding-top: 2px;
+  max-width: 569px;
   margin: auto;
   font-family: Poppins, sans-serif;
 }
@@ -458,8 +464,17 @@ h2.section-title {
 
 @media (min-width: 786px) {
   .container {
-    max-width: 1156px;
+    max-width: 100%;
     margin: 0 auto;
+  }
+
+  header {
+    margin-left: 5%;
+  }
+
+  .intro-text {
+    margin-left: 10%;
+    margin-top: 13%;
   }
 
   .nav-links {
