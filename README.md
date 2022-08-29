@@ -12,7 +12,7 @@
 
 ## Live Demo (if available)
 
-[live link](https://richy4dev.github.io/My-Personal-Portfolio/)
+N/A
 
 
 ## Getting Started
